@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aashish Prasad Gupta</h1>
+<h2 align="center">Hi 👋, I'm Aashish Prasad Gupta</h2>
 <h3 align="center">A beginner programmer interested in Python and Data Science</h3>
 
 - 🌱 I’m currently learning **Python's library for data science as well as java**
