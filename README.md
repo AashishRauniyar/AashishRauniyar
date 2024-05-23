@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Aashish Prasad Gupta</h2>
 <h3 align="center">A beginner programmer interested in Python and Data Science</h3>
 
-- 🌱 I’m currently learning **Python's library for data science,java and react**
+- 🌱 I’m currently learning ** React and Spring boot **
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
