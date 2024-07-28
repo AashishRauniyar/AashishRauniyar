@@ -2,3 +2,7 @@
 <h3 align="center">A beginner programmer interested in Frontend Development and Data Science</h3>
 
 Currently I am learning react and next js
+
+
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AashishRauniyar&layout=compact&theme=radical)
