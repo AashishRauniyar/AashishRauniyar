@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Aashish Prasad Gupta</h2>
-<h3 align="center">A beginner programmer interested in Frontend Development (React Js and Flutter) and Data Science</h3>
+<h3 align="center">Currently working on flutter and learn MERN stack side by side</h3>
 
 Currently I am learning react, flutter and node js
 
